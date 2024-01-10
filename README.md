@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Economize Assignment
 Economize Frontend
 Overview
 Economize Frontend is a dashboard application built with React, utilizing various frontend technologies. The primary purpose of this project is to provide a user-friendly interface for managing and visualizing economic data.
