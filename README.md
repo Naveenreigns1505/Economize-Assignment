@@ -1,5 +1,14 @@
 # Getting Started with Create React App
+Economize Frontend
+Overview
+Economize Frontend is a dashboard application built with React, utilizing various frontend technologies. The primary purpose of this project is to provide a user-friendly interface for managing and visualizing economic data.
 
+Technologies Used
+React.js
+Chart.js
+Sidebar
+Tabs
+Various Graphs and Charts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
